@@ -1,0 +1,32 @@
+header {
+    background-color: #FFD700; /* Goudkleur */
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    background-color: #4CAF50; /* Groen */
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#cel1 { background-color: red; }
+#cel2 { background-color: blue; }
+#cel3 { background-color: yellow; }
+#cel4 { background-color: green; }
+#cel5 { background-color: pink; }
+#cel6 { background-color: purple; }
+#cel7 { background-color: orange; }
+#cel8 { background-color: cyan; }
